@@ -1,0 +1,5 @@
+/lab/DotNET-Examples/Fundamentals/ClassesAndObjects/obj/Debug/net8.0/ClassesAndObjects.GeneratedMSBuildEditorConfig.editorconfig
+/lab/DotNET-Examples/Fundamentals/ClassesAndObjects/obj/Debug/net8.0/ClassesAndObjects.AssemblyInfoInputs.cache
+/lab/DotNET-Examples/Fundamentals/ClassesAndObjects/obj/Debug/net8.0/ClassesAndObjects.AssemblyInfo.cs
+/lab/DotNET-Examples/Fundamentals/ClassesAndObjects/obj/Debug/net8.0/ClassesAndObjects.csproj.CoreCompileInputs.cache
+/lab/DotNET-Examples/Fundamentals/ClassesAndObjects/obj/Debug/net8.0/ClassesAndObjects.sourcelink.json
